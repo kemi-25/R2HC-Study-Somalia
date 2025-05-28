@@ -43,5 +43,3 @@ The analysis code includes:
 
 Citation
 
-![image](https://github.com/user-attachments/assets/951a7399-4505-45a8-ab1e-bd13fae65479)
-
